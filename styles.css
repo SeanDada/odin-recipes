@@ -1,0 +1,13 @@
+h1 {
+    color: red; 
+    border: 5px red dotted;
+    padding-left: 450px; 
+}
+
+li { 
+    font-size: large;
+    background-color: yellow;
+    margin: 50px;
+    border: 1px red dotted;
+}
+
